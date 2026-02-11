@@ -1,0 +1,34 @@
+ROHITH DR
+     Bengaluru, Karnataka |      rohith200317@gmail.com |     8197737906 |      https://www.linkedin.com/in/rohith-dr
+ https://github.com/Rohith-DR
+OBJECTIVE
+To secure a challenging position as an Electronics Engineer in a dynamic and innovative organization, where I can use my technical and analytical skills to work on exciting projects and continue learning in this field.
+EXPERIENCE
+Jr Research Fellow (R V college of engineering)			              	  Bat Conservation India Trust | [04-08-2025]
+•	Designed and implemented an IoT system based on Raspberry Pi with a client–server architecture, embedded firmware in C and Python, custom PCB design, functional prototypes, and successful field validation.
+•	Engineered and prototyped an ultrasonic microphone system capable of capturing bat echolocation signals from 15 kHz to beyond 180 kHz, followed by successful real-world field testing.
+VSDSquadron Mini Internship							      Vlsi System Design | [19-01-2025]
+•	Designed a Shipment Tracking System in C, compiled it using PlatformlO with the RISC-V toolchain for hardware-level implementation insights.
+•	Engaged in a 4-week intensive research internship, focusing on the VSDSquadron Mini RISC-V development board, strengthening skills in embedded systems and processor design.
+EDUCATION
+Bachelor of Engineering, Electronics and Communication, GAT						  2021-2025
+specialization: Embedded systems & VLSI, CGPA: 9.81/10, First Rank Holder and Gold Medallist
+SKILLS & ABILITIES
+•	Programming Languages: C, C++, Python, Java, HTML, JavaScript, Verilog, SystemVerilog, Embedded C, MATLAB.
+•	Tools: Arduino, RTOS, Keil µVision, Cadence Virtuoso, COMSOL Multiphysics, KiCad, ModelSim, Visual Studio Code, LTspice, MATLAB/Simulink, Vivado, Quartus Prime, PlatformIO. Icusverilog, GTKwave.
+•	Soft Skills: Communication, Teamwork, Leadership, Problem-Solving, Critical Thinking, Analytical Skills, Time Management, Adaptability, Decision-Making, Project Coordination.
+PROJECTS
+Bat Signal Detector:
+•	Designed and simulated (LTspice) an ultrasonic microphone for bat echolocation detection across a 15 kHz–180+ kHz frequency range. validated performance through laboratory and real-world field testing.
+•	Developed and evaluated multiple client–server architecture prototypes, optimizing system performance and noise reduction to enable remote, long-range, high-speed data transfer.
+•	Finalized a compact custom PCB design in KiCad, reducing microphone form factor by approximately 33%.
+
+IoT-Based Water Monitoring:
+•	Integrated water flow sensors with an ESP32-based system for real-time monitoring of apartment water consumption, enabling precise usage tracking and automated billing solutions.
+•	Implemented a solar-recharged 5V power system and diaphragm pump control mechanism to enable efficient and sustainable water management.
+
+CERTIFICATIONS
+•	Internship Certificate from Elewayte.
+•	NPTEL Certificate on Embedded System Design using ARM.
+•	Certificate of Merit in Circuit Designing and Simulation Hackathon (VSD), securing a Top 20 position.
+•	NPTEL Certificate on Hardware Modeling Using Verilog.
